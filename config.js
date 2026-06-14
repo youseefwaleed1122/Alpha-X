@@ -1,7 +1,7 @@
 export default {
   // ────────────────[معلومات المطور]────────────────
     ownerName: '𝐀𝐲𝐨𝐮𝐛',
-    ownerNumber: '23595456638@s.whatsapp.net',
+    ownerNumber: '201080739942@s.whatsapp.net',
     eliteNumbers: [
         '23595456638@s.whatsapp.net',
         '201234567890@s.whatsapp.net',
